@@ -23,7 +23,5 @@ ql repo https://github.com/uan7/home.git
 
 
 
-https://github.com/uan7/home.git
-
 
 禁止拉库	                                     
