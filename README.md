@@ -11,7 +11,8 @@
 您必须在下载后的 24 小时内从计算机或手机中完全删除以上内容.
 
 青龙拉库
-        https://github.com/uan7/home.git
+
+ https://github.com/uan7/home.git
 
 
 禁止拉库	                                     
