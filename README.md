@@ -19,7 +19,7 @@
 
  青龙面板拉库命令
 
-ql repo https://github.com/uan7/home.git
+ql repo https://github.com/uan7/home.git 
 
 
 
