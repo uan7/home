@@ -17,7 +17,11 @@
  声明：
  您必须在下载后的 24 小时内从计算机或手机中完全删除以上内容.
 
-青龙拉库
+ 青龙面板拉库命令
+
+ql repo https://github.com/uan7/home.git
+
+
 
 https://github.com/uan7/home.git
 
